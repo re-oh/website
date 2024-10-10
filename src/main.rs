@@ -7,6 +7,7 @@ mod server;
 mod post;
 mod md_parser;
 mod templates;
+mod tagr;
 
 const URL: &'static str = "127.0.0.1:8000";
 
